@@ -1,6 +1,6 @@
 Name:		texlive-bxjatoucs
 Version:	52509
-Release:	1
+Release:	2
 Summary:	Convert Japanese character code to Unicode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxjatoucs
