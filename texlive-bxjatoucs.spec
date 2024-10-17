@@ -3,7 +3,7 @@ Version:	71870
 Release:	1
 Summary:	Convert Japanese character code to Unicode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxjatoucs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxjatoucs
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjatoucs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxjatoucs.doc.r%{version}.tar.xz
